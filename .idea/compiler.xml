@@ -9,5 +9,8 @@
         <module name="payroll" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="payroll" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
